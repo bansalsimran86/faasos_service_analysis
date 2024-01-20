@@ -1,6 +1,6 @@
-# faasos_service_analysis
-Faaso's SQL Portfolio Project Documentation
+# Faasos_service_analysis
 Introduction
+<br>
 The Faaso's SQL Portfolio Project involved a comprehensive exploration of the database associated with Faaso, a hypothetical food delivery platform. The project aimed to derive meaningful insights, optimize processes, and enhance decision-making capabilities through extensive SQL queries. The following sections provide a detailed overview of the key aspects addressed in the project.
 
 Project Objectives
