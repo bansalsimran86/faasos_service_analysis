@@ -35,5 +35,6 @@ Challenges Faced
 3.	Performance Optimization: Ensured queries were optimized for performance, especially when dealing with large datasets.
 
 Conclusion
+<br>
 The Faaso's SQL Portfolio Project successfully addressed the outlined objectives, providing a comprehensive analysis of various aspects of the food delivery platform. The project showcased proficiency in SQL querying, data analysis, and database management. The insights derived from the project can be instrumental in informing business strategies, optimizing operations, and enhancing the overall user experience.
 This documentation serves as a testament to the skills and capabilities demonstrated in handling complex datasets and deriving actionable insights to support data-driven decision-making.
